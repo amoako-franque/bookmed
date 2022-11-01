@@ -1,5 +1,5 @@
 const User = require("../models/userModel")
-const Doctor = require("../models/doctorModel")
+const Doctor = require("../models/medModel")
 
 /*
     @route  api/meds
